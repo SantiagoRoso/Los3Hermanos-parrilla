@@ -1,0 +1,7 @@
+Se colocaron las respectivas keywords y descripcion en los HTML para lograr posicionar mejor nuestro sitio web
+
+Index-keywords: parrilla, fogonero, asado, fuego
+Productos-keywords: productos, parrilla, fogonero, asado, fuego, set
+Contacto-keywords: email, nombre, contacto, telefono, mensaje
+Blog-keywords: tecnica, tips, asado, fuego
+FaQ-keywords: envios, costo, pais, garantia, faq
